@@ -1,5 +1,5 @@
 # House_Price_Prediction
-In this project, I create a linear regression model to predict the prices of houses in the Boston Area.
+In this project, I  created a linear regression model to predict the prices of houses in the Boston Area.
 
 The data Given to us is a dataset called "housing_train.csv" which contains attributes of each house: houseId, price, area, bedrooms, bathrooms, stories, mainroad, guestroom, basement, hotwaterheating, airconditioning, parking, prefarea, and furnishing status
 
