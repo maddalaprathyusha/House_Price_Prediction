@@ -1,10 +1,8 @@
 # House_Price_Prediction
-In this project, I  created a linear regression model to predict the prices of houses in the Boston Area.
+In this project, I developed a linear regression model to accurately predict house prices in the Boston Area. The dataset provided, named "housing_train.csv," consists of various attributes for each house, including houseId, price, area, bedrooms, bathrooms, stories, mainroad, guestroom, basement, hotwaterheating, airconditioning, parking, prefarea, and furnishing status.
 
-The data Given to us is a dataset called "housing_train.csv" which contains attributes of each house: houseId, price, area, bedrooms, bathrooms, stories, mainroad, guestroom, basement, hotwaterheating, airconditioning, parking, prefarea, and furnishing status
+With this dataset and a set of new houses stored in "housing_test.csv," our model generates a file named "predictions.csv," which contains the houseID and the corresponding predicted prices for each house.
 
-Given this, data and a series of new houses stored in housing_test.csv , our model produces a file predictions.csv containing houseID and predicted prices for each house.
+By employing Linear Regression, our model achieved an impressive prediction accuracy of 70%.
 
-Using Linear Regression, we are able to reach a 70% accuracy in predictions.
-
-This project is part of the Edyst Internship Program.
+This project was undertaken as part of the Edyst Internship Program
